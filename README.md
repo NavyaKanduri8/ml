@@ -11,7 +11,7 @@ pip install opencv-python mediapipe numpy
 ```
 
 ## ▶️ How to Run
-
+ 
 ```bash
 python sleep_detector.py
 ```
